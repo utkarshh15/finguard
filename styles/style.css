@@ -43,7 +43,13 @@ body {
 	color: #292D3A;
 }
 
-.right-nav a[href="/pages/courses/courses.html"]{
+.right-nav a[href="pages/courses/courses.html"]{
+	background-color: #292D3A;
+	color: white;
+	padding: 5px;
+}
+
+.right-nav a[href="/finguard/pages/courses/courses.html"]{
 	background-color: #292D3A;
 	color: white;
 	padding: 5px;
