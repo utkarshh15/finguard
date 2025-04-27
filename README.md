@@ -25,7 +25,7 @@ PAIN POINT:- 1.Generic investment advice not tailored to individual goals.
 
 ###########################################
 
-SOLUTION- Introducing WEALTH WISE, a web app that leverages AI to provide personalized investment recommendations. The platform offers tailored advice across stocks, mutual funds, and ETFs, supports long-term financial planning, and includes a comprehensive education platform to boost financial literacy.
+SOLUTION- Introducing FinGuard, a web app that leverages AI to provide personalized investment recommendations. The platform offers tailored advice across stocks, mutual funds, and ETFs, supports long-term financial planning, and includes a comprehensive education platform to boost financial literacy.
 KEY FEATURES:-1. AI-Driven Personalized Stock Recommendation 
               2. Tailored Mutual Fund and ETF Portfolios
               3. Portfolio Optimization
